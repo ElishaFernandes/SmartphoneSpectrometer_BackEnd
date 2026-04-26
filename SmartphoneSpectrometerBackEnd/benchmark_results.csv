@@ -1,9 +1,0 @@
-stage,mean_ms,std_ms,n
-image_decode_and_crop,1.797,0.253,50
-spectrum_extract,1.975,0.54,50
-reflectance,0.094,0.024,50
-preprocessing_pipeline,2.589,0.282,50
-ratios_peaks_integral,0.342,0.025,50
-db_write,8.4,0.83,50
-TOTAL,15.196,1.336,50
-http_round_trip,27.796,1.617,50
